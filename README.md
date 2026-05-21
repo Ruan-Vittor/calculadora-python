@@ -33,7 +33,7 @@ calculadora-python/
 
 **1. Clone o repositório**
 
-git clone https://github.com/seu-usuario/calculadora-python.git
+git clone https://github.com/Ruan-Vittor/calculadora-python.git
 cd calculadora-python
 
 **2. Instale as dependências**
